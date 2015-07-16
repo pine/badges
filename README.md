@@ -1,5 +1,7 @@
 # My repository badges
 
+[![Build Status](https://snap-ci.com/pine613/badges/branch/master/build_image)](https://snap-ci.com/pine613/badges/branch/master)
+
 ## node-vimlint
 
 [![npm version](https://badge.fury.io/js/vimlint.svg)](https://www.npmjs.com/package/vimlint)

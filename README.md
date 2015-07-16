@@ -1,5 +1,4 @@
-My repository badges
---------------------
+# My repository badges
 
 ## node-vimlint
 
@@ -16,5 +15,4 @@ My repository badges
 [![Build Status](https://travis-ci.org/pine613/grunt-zshlint.svg?branch=master)](https://travis-ci.org/pine613/grunt-zshlint)
 [![Dependency Status](https://david-dm.org/pine613/grunt-zshlint.svg)](https://david-dm.org/pine613/grunt-zshlint)
 [![devDependency Status](https://david-dm.org/pine613/grunt-zshlint/dev-status.svg)](https://david-dm.org/pine613/grunt-zshlint#info=devDependencies)
-
 

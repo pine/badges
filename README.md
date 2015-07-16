@@ -35,7 +35,7 @@
 [![Dependency Status](https://david-dm.org/pine613/grunt-zshlint.svg)](https://david-dm.org/pine613/grunt-zshlint)
 [![devDependency Status](https://david-dm.org/pine613/grunt-zshlint/dev-status.svg)](https://david-dm.org/pine613/grunt-zshlint#info=devDependencies)
 
-## node-camo-url
+## [node-camo-url](https://github.com/pine613/node-camo-url)
 
 [![npm version](https://badge.fury.io/js/camo-url.svg)](http://badge.fury.io/js/camo-url)
 [![Build Status](https://travis-ci.org/pine613/node-camo-url.svg?branch=master)](https://travis-ci.org/pine613/node-camo-url)

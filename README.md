@@ -2,7 +2,7 @@
 
 [![Build Status](https://snap-ci.com/pine613/badges/branch/master/build_image)](https://snap-ci.com/pine613/badges/branch/master)
 
-## node-vimlint
+## [node-vimlint](https://github.com/pine613/node-vimlint)
 
 [![npm version](https://badge.fury.io/js/vimlint.svg)](https://www.npmjs.com/package/vimlint)
 [![Build Status](https://travis-ci.org/pine613/node-vimlint.svg?branch=master)](https://travis-ci.org/pine613/node-vimlint)
@@ -11,7 +11,7 @@
 [![Dependency Status](https://david-dm.org/pine613/node-vimlint.svg)](https://david-dm.org/pine613/node-vimlint)
 [![devDependency Status](https://david-dm.org/pine613/node-vimlint/dev-status.svg)](https://david-dm.org/pine613/node-vimlint#info=devDependencies)
 
-## grunt-zshlint
+## [grunt-zshlint](https://github.com/pine613/grunt-zshlint)
 
 [![npm version](https://badge.fury.io/js/grunt-zshlint.svg)](http://badge.fury.io/js/grunt-zshlint)
 [![Build Status](https://travis-ci.org/pine613/grunt-zshlint.svg?branch=master)](https://travis-ci.org/pine613/grunt-zshlint)

@@ -2,7 +2,8 @@
 
 [![Build Status](https://snap-ci.com/pine613/badges/branch/master/build_image)](https://snap-ci.com/pine613/badges/branch/master)
 
-## [node-vimlint](https://github.com/pine613/node-vimlint)
+## Node.js
+### [node-vimlint](https://github.com/pine613/node-vimlint)
 
 [![npm version](https://badge.fury.io/js/vimlint.svg)](https://www.npmjs.com/package/vimlint)
 [![Build Status](https://travis-ci.org/pine613/node-vimlint.svg?branch=master)](https://travis-ci.org/pine613/node-vimlint)
@@ -11,7 +12,7 @@
 [![Dependency Status](https://david-dm.org/pine613/node-vimlint.svg)](https://david-dm.org/pine613/node-vimlint)
 [![devDependency Status](https://david-dm.org/pine613/node-vimlint/dev-status.svg)](https://david-dm.org/pine613/node-vimlint#info=devDependencies)
 
-## [grunt-vimlint](https://github.com/pine613/grunt-vimlint)
+### [grunt-vimlint](https://github.com/pine613/grunt-vimlint)
 
 [![npm version](https://badge.fury.io/js/grunt-vimlint.svg)](http://badge.fury.io/js/grunt-vimlint)
 [![Build Status](https://travis-ci.org/pine613/grunt-vimlint.svg?branch=master)](https://travis-ci.org/pine613/grunt-vimlint)
@@ -19,7 +20,7 @@
 [![Dependency Status](https://david-dm.org/pine613/grunt-vimlint.svg)](https://david-dm.org/pine613/grunt-vimlint)
 [![devDependency Status](https://david-dm.org/pine613/grunt-vimlint/dev-status.svg)](https://david-dm.org/pine613/grunt-vimlint#info=devDependencies)
 
-## [gulp-vimlint](https://github.com/pine613/gulp-vimlint)
+### [gulp-vimlint](https://github.com/pine613/gulp-vimlint)
 
 [![npm version](https://badge.fury.io/js/gulp-vimlint.svg)](http://badge.fury.io/js/gulp-vimlint)
 [![Build Status](https://travis-ci.org/pine613/gulp-vimlint.svg?branch=master)](https://travis-ci.org/pine613/gulp-vimlint)
@@ -28,14 +29,14 @@
 [![Dependency Status](https://david-dm.org/pine613/gulp-vimlint.svg)](https://david-dm.org/pine613/gulp-vimlint)
 [![devDependency Status](https://david-dm.org/pine613/gulp-vimlint/dev-status.svg)](https://david-dm.org/pine613/gulp-vimlint#info=devDependencies)
 
-## [grunt-zshlint](https://github.com/pine613/grunt-zshlint)
+### [grunt-zshlint](https://github.com/pine613/grunt-zshlint)
 
 [![npm version](https://badge.fury.io/js/grunt-zshlint.svg)](http://badge.fury.io/js/grunt-zshlint)
 [![Build Status](https://travis-ci.org/pine613/grunt-zshlint.svg?branch=master)](https://travis-ci.org/pine613/grunt-zshlint)
 [![Dependency Status](https://david-dm.org/pine613/grunt-zshlint.svg)](https://david-dm.org/pine613/grunt-zshlint)
 [![devDependency Status](https://david-dm.org/pine613/grunt-zshlint/dev-status.svg)](https://david-dm.org/pine613/grunt-zshlint#info=devDependencies)
 
-## [node-camo-url](https://github.com/pine613/node-camo-url)
+### [node-camo-url](https://github.com/pine613/node-camo-url)
 
 [![npm version](https://badge.fury.io/js/camo-url.svg)](http://badge.fury.io/js/camo-url)
 [![Build Status](https://travis-ci.org/pine613/node-camo-url.svg?branch=master)](https://travis-ci.org/pine613/node-camo-url)
@@ -43,6 +44,15 @@
 [![Dependency Status](https://david-dm.org/pine613/node-camo-url.svg)](https://david-dm.org/pine613/node-camo-url)
 [![devDependency Status](https://david-dm.org/pine613/node-camo-url/dev-status.svg)](https://david-dm.org/pine613/node-camo-url#info=devDependencies)
 
-## [crenv](https://github.com/pine613/crenv)
+## [amazon-url-normalize](https://github.com/pine613/amznjp-url-normalize)
+
+[![npm version](https://badge.fury.io/js/amznjp-url-normalize.svg)](http://badge.fury.io/js/amznjp-url-normalize)
+[![Build Status](https://travis-ci.org/pine613/amznjp-url-normalize.svg?branch=master)](https://travis-ci.org/pine613/amznjp-url-normalize)
+[![Coverage Status](https://coveralls.io/repos/pine613/amznjp-url-normalize/badge.svg?branch=master)](https://coveralls.io/r/pine613/amznjp-url-normalize?branch=master)
+[![Dependency Status](https://david-dm.org/pine613/amznjp-url-normalize.svg)](https://david-dm.org/pine613/amznjp-url-normalize)
+[![devDependency Status](https://david-dm.org/pine613/amznjp-url-normalize/dev-status.svg)](https://david-dm.org/pine613/amznjp-url-normalize#info=devDependencies)
+
+## Shell
+### [crenv](https://github.com/pine613/crenv)
 
 [![Codeship Status for pine613/crenv](https://img.shields.io/codeship/16e203b0-0df6-0133-98ae-2ed139d2fe7b/master.svg)](https://codeship.com/projects/91546)

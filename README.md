@@ -53,6 +53,12 @@
 [![Dependency Status](https://david-dm.org/pine613/amznjp-url-normalize.svg)](https://david-dm.org/pine613/amznjp-url-normalize)
 [![devDependency Status](https://david-dm.org/pine613/amznjp-url-normalize/dev-status.svg)](https://david-dm.org/pine613/amznjp-url-normalize#info=devDependencies)
 
+## [clean-repos-dir](https://github.com/pine613/clean-repos-dir)
+
+[![Build Status](https://travis-ci.org/pine613/clean-repos-dir.svg?branch=master)](https://travis-ci.org/pine613/clean-repos-dir)
+[![Dependency Status](https://david-dm.org/pine613/clean-repos-dir.svg)](https://david-dm.org/pine613/clean-repos-dir)
+[![devDependency Status](https://david-dm.org/pine613/clean-repos-dir/dev-status.svg)](https://david-dm.org/pine613/clean-repos-dir#info=devDependencies)
+
 ## Shell
 
 ### [crenv](https://github.com/pine613/crenv)

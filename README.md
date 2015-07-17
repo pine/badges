@@ -1,4 +1,4 @@
-# My repository badges
+## My repository badges
 
 [![Build Status](https://snap-ci.com/pine613/badges/branch/master/build_image)](https://snap-ci.com/pine613/badges/branch/master)
 

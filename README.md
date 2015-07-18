@@ -63,7 +63,7 @@
 
 ### [crenv](https://github.com/pine613/crenv)
 
-[![Codeship Status for pine613/crenv](https://img.shields.io/codeship/16e203b0-0df6-0133-98ae-2ed139d2fe7b/master.svg)](https://codeship.com/projects/91546)
+[![Build Status](https://travis-ci.org/pine613/crenv.svg?branch=master)](https://travis-ci.org/pine613/crenv)
 
 ## Perl
 

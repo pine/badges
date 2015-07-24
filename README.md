@@ -59,6 +59,16 @@
 [![Dependency Status](https://david-dm.org/pine613/clean-repos-dir.svg)](https://david-dm.org/pine613/clean-repos-dir)
 [![devDependency Status](https://david-dm.org/pine613/clean-repos-dir/dev-status.svg)](https://david-dm.org/pine613/clean-repos-dir#info=devDependencies)
 
+### [NyagosUpdateChecker](https://github.com/pine613/NyagosUpdateChecker)
+
+[![Build Status](https://travis-ci.org/pine613/NyagosUpdateChecker.svg?branch=master)](https://travis-ci.org/pine613/NyagosUpdateChecker)
+[![devDependency Status](https://david-dm.org/pine613/NyagosUpdateChecker/dev-status.svg)](https://david-dm.org/pine613/NyagosUpdateChecker#info=devDependencies)
+
+### [OperaUpdateChecker](https://github.com/pine613/OperaUpdateChecker)
+
+[![Build Status](https://travis-ci.org/pine613/OperaUpdateChecker.svg?branch=master)](https://travis-ci.org/pine613/OperaUpdateChecker)
+[![devDependency Status](https://david-dm.org/pine613/OperaUpdateChecker/dev-status.svg)](https://david-dm.org/pine613/OperaUpdateChecker#info=devDependencies)
+
 ## Shell
 
 ### [crenv](https://github.com/pine613/crenv)

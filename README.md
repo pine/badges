@@ -91,3 +91,5 @@
 ### [codecov](https://github.com/codecov) / [codecov-perl](https://github.com/codecov/codecov-perl)
 
 [![Build Status](https://travis-ci.org/codecov/codecov-perl.svg?branch=master)](https://travis-ci.org/codecov/codecov-perl)
+
+### [codecov](https://github.com/codecov) / [example-perl](https://github.com/codecov/example-perl)

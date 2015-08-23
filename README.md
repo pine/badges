@@ -91,5 +91,6 @@
 ### [codecov](https://github.com/codecov) / [codecov-perl](https://github.com/codecov/codecov-perl)
 
 [![Build Status](https://travis-ci.org/codecov/codecov-perl.svg?branch=master)](https://travis-ci.org/codecov/codecov-perl)
+[![Build status](https://ci.appveyor.com/api/projects/status/5lsn4kb9dt9fj9eq/branch/master?svg=true)](https://ci.appveyor.com/project/stevepeak/codecov-perl/branch/master)
 
 ### [codecov](https://github.com/codecov) / [example-perl](https://github.com/codecov/example-perl)

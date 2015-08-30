@@ -94,3 +94,9 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/5lsn4kb9dt9fj9eq/branch/master?svg=true)](https://ci.appveyor.com/project/stevepeak/codecov-perl/branch/master)
 
 ### [codecov](https://github.com/codecov) / [example-perl](https://github.com/codecov/example-perl)
+
+## Crystal
+
+### [crystal-connpass](https://github.com/pine613/crystal-connpass)
+
+[![Build Status](https://travis-ci.org/pine613/crystal-connpass.svg?branch=master)](https://travis-ci.org/pine613/crystal-connpass)

@@ -100,3 +100,7 @@
 ### [crystal-connpass](https://github.com/pine613/crystal-connpass)
 
 [![Build Status](https://travis-ci.org/pine613/crystal-connpass.svg?branch=master)](https://travis-ci.org/pine613/crystal-connpass)
+
+### [crystal-qiita](https://github.com/pine613/crystal-qiita)
+
+[![Build Status](https://travis-ci.org/pine613/crystal-qiita.svg)](https://travis-ci.org/pine613/crystal-qiita)

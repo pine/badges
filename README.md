@@ -87,6 +87,7 @@
 ### [crystal-build](https://github.com/pine613/crystal-build)
 
 [![Build Status](https://travis-ci.org/pine613/crystal-build.svg?branch=master)](https://travis-ci.org/pine613/crystal-build)
+[![codecov.io](http://codecov.io/github/pine613/crystal-build/coverage.svg?branch=master)](http://codecov.io/github/pine613/crystal-build?branch=master)
 
 ### [codecov](https://github.com/codecov) / [codecov-perl](https://github.com/codecov/codecov-perl)
 

@@ -37,6 +37,13 @@
 [![Dependency Status](https://david-dm.org/pine613/grunt-zshlint.svg)](https://david-dm.org/pine613/grunt-zshlint)
 [![devDependency Status](https://david-dm.org/pine613/grunt-zshlint/dev-status.svg)](https://david-dm.org/pine613/grunt-zshlint#info=devDependencies)
 
+### [gulp-dotenv](https://github.com/pine613/gulp-dotenv)
+
+[![npm version](https://badge.fury.io/js/gulp-dotenv.svg)](http://badge.fury.io/js/gulp-dotenv)
+[![Build Status](https://travis-ci.org/pine613/gulp-dotenv.svg?branch=master)](https://travis-ci.org/pine613/gulp-dotenv)
+[![Dependency Status](https://david-dm.org/pine613/gulp-dotenv.svg)](https://david-dm.org/pine613/gulp-dotenv)
+[![devDependency Status](https://david-dm.org/pine613/gulp-dotenv/dev-status.svg)](https://david-dm.org/pine613/gulp-dotenv#info=devDependencies)
+
 ### [node-camo-url](https://github.com/pine613/node-camo-url)
 
 [![npm version](https://badge.fury.io/js/camo-url.svg)](http://badge.fury.io/js/camo-url)

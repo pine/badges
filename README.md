@@ -126,3 +126,7 @@
 ### [crystal-qiita](https://github.com/pine613/crystal-qiita)
 
 [![Build Status](https://travis-ci.org/pine613/crystal-qiita.svg)](https://travis-ci.org/pine613/crystal-qiita)
+
+### [crystal-rfc5988](https://github.com/pine613/crystal-rfc5988)
+
+[![Build Status](https://travis-ci.org/pine613/crystal-rfc5988.svg?branch=master)](https://travis-ci.org/pine613/crystal-rfc5988)

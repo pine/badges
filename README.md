@@ -12,6 +12,13 @@
 [![Dependency Status](https://david-dm.org/pine613/amznjp-url-normalize.svg)](https://david-dm.org/pine613/amznjp-url-normalize)
 [![devDependency Status](https://david-dm.org/pine613/amznjp-url-normalize/dev-status.svg)](https://david-dm.org/pine613/amznjp-url-normalize#info=devDependencies)
 
+### [dotfiles](https://github.com/pine613/dotfiles)
+
+[![wercker status](https://img.shields.io/wercker/ci/54f5f52d1afdc9f97c000564.svg?style=flat-square)](https://app.wercker.com/project/bykey/0f3a3fac65929edc8fd6e53818d5aba6)
+[![Coverage Status](https://img.shields.io/coveralls/pine613/dotfiles/master.svg?style=flat-square)](https://coveralls.io/r/pine613/dotfiles)
+[![Code Climate](https://img.shields.io/codeclimate/github/pine613/dotfiles.svg?style=flat-square)](https://codeclimate.com/github/pine613/dotfiles)
+[![devDependency Status](https://img.shields.io/david/dev/pine613/dotfiles.svg?style=flat-square)](https://david-dm.org/pine613/dotfiles#info=devDependencies)
+
 ### [fly-ejs](https://github.com/pine613/fly-ejs)
 
 [![npm package](https://img.shields.io/npm/v/fly-ejs.svg?style=flat-square)](https://www.npmjs.org/package/fly-ejs)
@@ -89,13 +96,6 @@
 
 [![Build Status](https://travis-ci.org/pine613/OperaUpdateChecker.svg?branch=master)](https://travis-ci.org/pine613/OperaUpdateChecker)
 [![devDependency Status](https://david-dm.org/pine613/OperaUpdateChecker/dev-status.svg)](https://david-dm.org/pine613/OperaUpdateChecker#info=devDependencies)
-
-### [dotfiles](https://github.com/pine613/dotfiles)
-
-[![wercker status](https://img.shields.io/wercker/ci/54f5f52d1afdc9f97c000564.svg?style=flat-square)](https://app.wercker.com/project/bykey/0f3a3fac65929edc8fd6e53818d5aba6)
-[![Coverage Status](https://img.shields.io/coveralls/pine613/dotfiles/master.svg?style=flat-square)](https://coveralls.io/r/pine613/dotfiles)
-[![Code Climate](https://img.shields.io/codeclimate/github/pine613/dotfiles.svg?style=flat-square)](https://codeclimate.com/github/pine613/dotfiles)
-[![devDependency Status](https://img.shields.io/david/dev/pine613/dotfiles.svg?style=flat-square)](https://david-dm.org/pine613/dotfiles#info=devDependencies)
 
 ## Shell
 

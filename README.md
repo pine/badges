@@ -117,6 +117,11 @@
 
 ### [codecov](https://github.com/codecov) / [example-perl](https://github.com/codecov/example-perl)
 
+### [p5-SemVer-V2-Strict](https://github.com/pine613/p5-SemVer-V2-Strict)
+
+[![Build Status](https://travis-ci.org/pine613/p5-SemVer-V2-Strict.svg?branch=master)](https://travis-ci.org/pine613/p5-SemVer-V2-Strict)
+[![Coverage Status](http://codecov.io/github/pine613/p5-SemVer-V2-Strict/coverage.svg?branch=master)](https://codecov.io/github/pine613/p5-SemVer-V2-Strict?branch=master)
+
 ## Crystal
 
 ### [crystal-connpass](https://github.com/pine613/crystal-connpass)

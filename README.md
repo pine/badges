@@ -23,6 +23,8 @@
 
 [![npm package](https://img.shields.io/npm/v/fly-ava.svg?style=flat-square)](https://www.npmjs.org/package/fly-ava)
 [![](http://img.shields.io/travis/pine613/fly-ava.svg?style=flat-square)](https://travis-ci.org/pine613/fly-ava)
+[![](https://img.shields.io/appveyor/ci/pine613/fly-ava/master.svg?style=flat-square)](https://ci.appveyor.com/project/pine613/fly-ava/branch/master)
+[![](https://img.shields.io/codeclimate/github/pine613/fly-ava.svg?style=flat-square)](https://codeclimate.com/github/pine613/fly-ava)
 [![](https://img.shields.io/david/pine613/fly-ava.svg?style=flat-square)](https://david-dm.org/pine613/fly-ava)
 [![](https://img.shields.io/david/dev/pine613/fly-ava.svg?style=flat-square)](https://david-dm.org/pine613/fly-ava#info=devDependencies&view=table)
 

@@ -19,6 +19,13 @@
 [![Code Climate](https://img.shields.io/codeclimate/github/pine613/dotfiles.svg?style=flat-square)](https://codeclimate.com/github/pine613/dotfiles)
 [![devDependency Status](https://img.shields.io/david/dev/pine613/dotfiles.svg?style=flat-square)](https://david-dm.org/pine613/dotfiles#info=devDependencies)
 
+### [fly-ava](https://github.com/pine613/fly-ava)
+
+[![npm package](https://img.shields.io/npm/v/fly-ava.svg?style=flat-square)](https://www.npmjs.org/package/fly-ava)
+[![](http://img.shields.io/travis/pine613/fly-ava.svg?style=flat-square)](https://travis-ci.org/pine613/fly-ava)
+[![](https://img.shields.io/david/pine613/fly-ava.svg?style=flat-square)](https://david-dm.org/pine613/fly-ava)
+[![](https://img.shields.io/david/dev/pine613/fly-ava.svg?style=flat-square)](https://david-dm.org/pine613/fly-ava#info=devDependencies&view=table)
+
 ### [fly-ejs](https://github.com/pine613/fly-ejs)
 
 [![npm package](https://img.shields.io/npm/v/fly-ejs.svg?style=flat-square)](https://www.npmjs.org/package/fly-ejs)

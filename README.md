@@ -129,6 +129,12 @@
 
 ### [codecov](https://github.com/codecov) / [example-perl](https://github.com/codecov/example-perl)
 
+### [p5-HTTP-Command-Wrapper](https://github.com/pine613/p5-HTTP-Command-Wrapper)
+
+[![Build Status](https://travis-ci.org/pine613/p5-HTTP-Command-Wrapper.svg?branch=master)](https://travis-ci.org/pine613/p5-HTTP-Command-Wrapper)
+[![Build Status](https://ci.appveyor.com/api/projects/status/86fnc27jnv9w13jc/branch/master?svg=true)](https://ci.appveyor.com/project/pine613/p5-HTTP-Command-Wrapper/branch/master)
+[![Coverage Status](http://codecov.io/github/pine613/p5-HTTP-Command-Wrapper/coverage.svg?branch=master)](https://codecov.io/github/pine613/p5-HTTP-Command-Wrapper?branch=master)
+
 ### [p5-SemVer-V2-Strict](https://github.com/pine613/p5-SemVer-V2-Strict)
 
 [![Build Status](https://travis-ci.org/pine613/p5-SemVer-V2-Strict.svg?branch=master)](https://travis-ci.org/pine613/p5-SemVer-V2-Strict)

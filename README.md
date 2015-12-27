@@ -2,19 +2,19 @@
 
 [![Build Status](https://snap-ci.com/pine613/badges/branch/master/build_image)](https://snap-ci.com/pine613/badges/branch/master)
 
-# Services
+## Services
 
-## [Irori](https://github.com/pine613/Irori)
+### [Irori](https://github.com/pine613/Irori)
 
 [![Circle CI](https://img.shields.io/circleci/project/pine613/Irori/master.svg?style=flat-square)](https://circleci.com/gh/pine613/Irori)
 [![Dependency Status](https://img.shields.io/david/pine613/Irori.svg?style=flat-square)](https://david-dm.org/pine613/Irori)
 [![devDependency Status](https://img.shields.io/david/dev/pine613/Irori.svg?style=flat-square)](https://david-dm.org/pine613/Irori#info=devDependencies)
 
-# Libraries
+## Libraries
 
-## Node.js
+### Node.js
 
-### [amazon-url-normalize](https://github.com/pine613/amznjp-url-normalize)
+#### [amazon-url-normalize](https://github.com/pine613/amznjp-url-normalize)
 
 [![npm version](https://badge.fury.io/js/amznjp-url-normalize.svg)](http://badge.fury.io/js/amznjp-url-normalize)
 [![Build Status](https://travis-ci.org/pine613/amznjp-url-normalize.svg?branch=master)](https://travis-ci.org/pine613/amznjp-url-normalize)

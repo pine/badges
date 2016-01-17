@@ -186,6 +186,8 @@
 ### [crystal-resque-client](https://github.com/pine613/crystal-resque-client)
 
 [![Build Status](https://travis-ci.org/pine613/crystal-resque-client.svg?branch=master)](https://travis-ci.org/pine613/crystal-resque-client)
+[![Dependency Status](https://shards.rocks/badge/github/pine613/crystal-resque-client/status.svg)](https://shards.rocks/github/pine613/crystal-resque-client)
+[![devDependency Status](https://shards.rocks/badge/github/pine613/crystal-resque-client/dev_status.svg)](https://shards.rocks/github/pine613/crystal-resque-client)
 
 ### [crystal-rfc5988](https://github.com/pine613/crystal-rfc5988)
 

@@ -13,16 +13,19 @@
 ### [Shards Rocks](https://shards.rocks/)
 
 #### Server
+
 [![Circle CI](https://img.shields.io/circleci/project/shardsrocks/sharock-server/master.svg)](https://circleci.com/gh/shardsrocks/sharock-server/tree/master)
 [![Dependency Status](https://shards.rocks/badge/github/shardsrocks/sharock-api-server/status.svg)](https://shards.rocks/github/shardsrocks/sharock-api-server)
 [![Dependency Status](https://shards.rocks/badge/github/shardsrocks/sharock-api-server/dev_status.svg)](https://shards.rocks/github/shardsrocks/sharock-api-server)
 
 #### Frontend
+
 [![Circle CI](https://img.shields.io/circleci/project/shardsrocks/sharock-frontend/master.svg)](https://circleci.com/gh/shardsrocks/sharock-frontend/tree/master)
 [![Dependency Status](https://david-dm.org/shardsrocks/sharock-frontend.svg)](https://david-dm.org/shardsrocks/sharock-frontend)
 [![devDependency Status](https://david-dm.org/shardsrocks/sharock-frontend/dev-status.svg)](https://david-dm.org/shardsrocks/sharock-frontend#info=devDependencies)
 
 #### Worker
+
 [![Circle CI](https://img.shields.io/circleci/project/shardsrocks/sharock-worker/master.svg)](https://circleci.com/gh/shardsrocks/sharock-worker/tree/master)
 
 ## Libraries

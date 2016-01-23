@@ -90,10 +90,10 @@
 
 ### [gulp-dotenv](https://github.com/pine613/gulp-dotenv)
 
-[![npm version](https://badge.fury.io/js/gulp-dotenv.svg)](http://badge.fury.io/js/gulp-dotenv)
-[![Build Status](https://travis-ci.org/pine613/gulp-dotenv.svg?branch=master)](https://travis-ci.org/pine613/gulp-dotenv)
-[![Dependency Status](https://david-dm.org/pine613/gulp-dotenv.svg)](https://david-dm.org/pine613/gulp-dotenv)
-[![devDependency Status](https://david-dm.org/pine613/gulp-dotenv/dev-status.svg)](https://david-dm.org/pine613/gulp-dotenv#info=devDependencies)
+[![npm version](https://img.shields.io/npm/v/gulp-dotenv.svg?style=flat-square)](https://www.npmjs.com/package/gulp-dotenv)
+[![Build Status](https://img.shields.io/travis/pine613/gulp-dotenv/master.svg?style=flat-square)](https://travis-ci.org/pine613/gulp-dotenv)
+[![Dependency Status](https://img.shields.io/david/pine613/gulp-dotenv.svg?style=flat-square)](https://david-dm.org/pine613/gulp-dotenv)
+[![devDependency Status](https://img.shields.io/david/dev/pine613/gulp-dotenv.svg?style=flat-square)](https://david-dm.org/pine613/gulp-dotenv#info=devDependencies)
 
 ### [gulp-vimlint](https://github.com/pine613/gulp-vimlint)
 

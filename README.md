@@ -203,3 +203,11 @@
 [![Dependency Status](https://shards.rocks/badge/github/pine613/crystal-rfc5988/status.svg)](https://shards.rocks/github/pine613/crystal-rfc5988)
 [![Dependency Status](https://shards.rocks/badge/github/pine613/crystal-rfc5988/dev_status.svg)](https://shards.rocks/github/pine613/crystal-rfc5988)
 [![docrystal.org](http://docrystal.org/badge.svg?style=round)](http://docrystal.org/github.com/pine613/crystal-rfc5988)
+
+## Kotlin
+
+### [rxkotlin-collections](https://github.com/pine613/rxkotlin-collections)
+
+[![Bintray](https://img.shields.io/bintray/v/pinemz/maven/rxkotlin-collections.svg?style=flat-square)](https://bintray.com/pinemz/maven/rxkotlin-collections/view)
+[![Build Status](https://img.shields.io/travis/pine613/rxkotlin-collections/master.svg?style=flat-square)](https://travis-ci.org/pine613/rxkotlin-collections)
+[![Coverage Status](https://img.shields.io/coveralls/pine613/rxkotlin-collections/master.svg?style=flat-square)](https://coveralls.io/github/pine613/rxkotlin-collections?branch=master)

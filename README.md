@@ -36,7 +36,40 @@
 
 [![Build Status](https://travis-ci.org/pine613/BestDocumenter.svg?branch=master)](https://travis-ci.org/pine613/BestDocumenter)
 
+## Shell
+
+### [crenv](https://github.com/pine613/crenv)
+
+[![Build Status](https://travis-ci.org/pine613/crenv.svg?branch=master)](https://travis-ci.org/pine613/crenv)
+
 ## Libraries
+
+## Crystal
+
+### [crystal-connpass](https://github.com/pine613/crystal-connpass)
+
+[![Build Status](https://travis-ci.org/pine613/crystal-connpass.svg?branch=master)](https://travis-ci.org/pine613/crystal-connpass)
+
+### [crystal-github-simple](https://github.com/pine613/crystal-github-simple)
+
+[![Build Status](https://travis-ci.org/pine613/crystal-github-simple.svg)](https://travis-ci.org/pine613/crystal-github-simple)
+
+### [crystal-qiita](https://github.com/pine613/crystal-qiita)
+
+[![Build Status](https://travis-ci.org/pine613/crystal-qiita.svg)](https://travis-ci.org/pine613/crystal-qiita)
+
+### [crystal-resque-client](https://github.com/pine613/crystal-resque-client)
+
+[![Build Status](https://travis-ci.org/pine613/crystal-resque-client.svg?branch=master)](https://travis-ci.org/pine613/crystal-resque-client)
+[![Dependency Status](https://shards.rocks/badge/github/pine613/crystal-resque-client/status.svg)](https://shards.rocks/github/pine613/crystal-resque-client)
+[![devDependency Status](https://shards.rocks/badge/github/pine613/crystal-resque-client/dev_status.svg)](https://shards.rocks/github/pine613/crystal-resque-client)
+
+### [crystal-rfc5988](https://github.com/pine613/crystal-rfc5988)
+
+[![Build Status](https://travis-ci.org/pine613/crystal-rfc5988.svg?branch=master)](https://travis-ci.org/pine613/crystal-rfc5988)
+[![Dependency Status](https://shards.rocks/badge/github/pine613/crystal-rfc5988/status.svg)](https://shards.rocks/github/pine613/crystal-rfc5988)
+[![Dependency Status](https://shards.rocks/badge/github/pine613/crystal-rfc5988/dev_status.svg)](https://shards.rocks/github/pine613/crystal-rfc5988)
+[![docrystal.org](http://docrystal.org/badge.svg?style=round)](http://docrystal.org/github.com/pine613/crystal-rfc5988)
 
 ### Node.js
 
@@ -145,11 +178,13 @@
 [![Build Status](https://travis-ci.org/pine613/OperaUpdateChecker.svg?branch=master)](https://travis-ci.org/pine613/OperaUpdateChecker)
 [![devDependency Status](https://david-dm.org/pine613/OperaUpdateChecker/dev-status.svg)](https://david-dm.org/pine613/OperaUpdateChecker#info=devDependencies)
 
-## Shell
+## Kotlin
 
-### [crenv](https://github.com/pine613/crenv)
+### [rxkotlin-collections](https://github.com/pine613/rxkotlin-collections)
 
-[![Build Status](https://travis-ci.org/pine613/crenv.svg?branch=master)](https://travis-ci.org/pine613/crenv)
+[![Bintray](https://img.shields.io/bintray/v/pinemz/maven/rxkotlin-collections.svg?style=flat-square)](https://bintray.com/pinemz/maven/rxkotlin-collections/view)
+[![Build Status](https://img.shields.io/travis/pine613/rxkotlin-collections/master.svg?style=flat-square)](https://travis-ci.org/pine613/rxkotlin-collections)
+[![Coverage Status](https://img.shields.io/coveralls/pine613/rxkotlin-collections/master.svg?style=flat-square)](https://coveralls.io/github/pine613/rxkotlin-collections?branch=master)
 
 ## Perl
 
@@ -176,38 +211,3 @@
 [![Build Status](https://travis-ci.org/pine613/p5-SemVer-V2-Strict.svg?branch=master)](https://travis-ci.org/pine613/p5-SemVer-V2-Strict)
 [![Build status](https://ci.appveyor.com/api/projects/status/bdym4j0is9v738v6/branch/master?svg=true)](https://ci.appveyor.com/project/pine613/p5-semver-v2-strict/branch/master)
 [![Coverage Status](http://codecov.io/github/pine613/p5-SemVer-V2-Strict/coverage.svg?branch=master)](https://codecov.io/github/pine613/p5-SemVer-V2-Strict?branch=master)
-
-## Crystal
-
-### [crystal-connpass](https://github.com/pine613/crystal-connpass)
-
-[![Build Status](https://travis-ci.org/pine613/crystal-connpass.svg?branch=master)](https://travis-ci.org/pine613/crystal-connpass)
-
-### [crystal-github-simple](https://github.com/pine613/crystal-github-simple)
-
-[![Build Status](https://travis-ci.org/pine613/crystal-github-simple.svg)](https://travis-ci.org/pine613/crystal-github-simple)
-
-### [crystal-qiita](https://github.com/pine613/crystal-qiita)
-
-[![Build Status](https://travis-ci.org/pine613/crystal-qiita.svg)](https://travis-ci.org/pine613/crystal-qiita)
-
-### [crystal-resque-client](https://github.com/pine613/crystal-resque-client)
-
-[![Build Status](https://travis-ci.org/pine613/crystal-resque-client.svg?branch=master)](https://travis-ci.org/pine613/crystal-resque-client)
-[![Dependency Status](https://shards.rocks/badge/github/pine613/crystal-resque-client/status.svg)](https://shards.rocks/github/pine613/crystal-resque-client)
-[![devDependency Status](https://shards.rocks/badge/github/pine613/crystal-resque-client/dev_status.svg)](https://shards.rocks/github/pine613/crystal-resque-client)
-
-### [crystal-rfc5988](https://github.com/pine613/crystal-rfc5988)
-
-[![Build Status](https://travis-ci.org/pine613/crystal-rfc5988.svg?branch=master)](https://travis-ci.org/pine613/crystal-rfc5988)
-[![Dependency Status](https://shards.rocks/badge/github/pine613/crystal-rfc5988/status.svg)](https://shards.rocks/github/pine613/crystal-rfc5988)
-[![Dependency Status](https://shards.rocks/badge/github/pine613/crystal-rfc5988/dev_status.svg)](https://shards.rocks/github/pine613/crystal-rfc5988)
-[![docrystal.org](http://docrystal.org/badge.svg?style=round)](http://docrystal.org/github.com/pine613/crystal-rfc5988)
-
-## Kotlin
-
-### [rxkotlin-collections](https://github.com/pine613/rxkotlin-collections)
-
-[![Bintray](https://img.shields.io/bintray/v/pinemz/maven/rxkotlin-collections.svg?style=flat-square)](https://bintray.com/pinemz/maven/rxkotlin-collections/view)
-[![Build Status](https://img.shields.io/travis/pine613/rxkotlin-collections/master.svg?style=flat-square)](https://travis-ci.org/pine613/rxkotlin-collections)
-[![Coverage Status](https://img.shields.io/coveralls/pine613/rxkotlin-collections/master.svg?style=flat-square)](https://coveralls.io/github/pine613/rxkotlin-collections?branch=master)

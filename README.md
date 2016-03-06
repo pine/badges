@@ -153,6 +153,14 @@
 [![Dependency Status](https://david-dm.org/pine613/node-camo-url.svg)](https://david-dm.org/pine613/node-camo-url)
 [![devDependency Status](https://david-dm.org/pine613/node-camo-url/dev-status.svg)](https://david-dm.org/pine613/node-camo-url#info=devDependencies)
 
+#### [node-tamagoya](https://github.com/pine613/node-tamagoya)
+
+[![npm](https://img.shields.io/npm/v/tamagoya.svg?style=flat-square)](https://www.npmjs.org/package/tamagoya)
+[![Build Status](https://img.shields.io/travis/pine613/node-tamagoya/master.svg?style=flat-square)](https://travis-ci.org/pine613/node-tamagoya)
+[![Code Climate](https://img.shields.io/codeclimate/github/pine613/node-tamagoya.svg?style=flat-square)](https://codeclimate.com/github/pine613/node-tamagoya)
+[![Dependency Status](https://img.shields.io/david/pine613/node-tamagoya.svg?style=flat-square)](https://david-dm.org/pine613/node-tamagoya)
+[![devDependency Status](https://img.shields.io/david/dev/pine613/node-tamagoya.svg?style=flat-square)](https://david-dm.org/pine613/node-tamagoya#info=devDependencies)
+
 #### [node-vimlint](https://github.com/pine613/node-vimlint)
 
 [![npm version](https://badge.fury.io/js/vimlint.svg)](https://www.npmjs.com/package/vimlint)

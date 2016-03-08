@@ -74,6 +74,7 @@
 ### Java
 
 #### [RxBindroid](https://github.com/pine613/RxBindroid)
+
 [![Bintray](https://img.shields.io/bintray/v/pinemz/maven/rxbindroid.svg?style=flat-square)](https://bintray.com/pinemz/maven/rxbindroid/view)
 [![Bintray](https://img.shields.io/bintray/v/pinemz/maven/rxbindroid-kotlin.svg?style=flat-square)](https://bintray.com/pinemz/maven/rxbindroid-kotlin/view)
 [![Build Status](https://img.shields.io/travis/pine613/RxBindroid/master.svg?style=flat-square)](https://travis-ci.org/pine613/RxBindroid)

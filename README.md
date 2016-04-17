@@ -50,6 +50,13 @@
 
 [![Build Status](https://travis-ci.org/pine613/crenv.svg?branch=master)](https://travis-ci.org/pine613/crenv)
 
+### Perl
+
+#### [crystal-build](https://github.com/pine613/crystal-build)
+
+[![Build Status](https://travis-ci.org/pine613/crystal-build.svg?branch=master)](https://travis-ci.org/pine613/crystal-build)
+[![codecov.io](http://codecov.io/github/pine613/crystal-build/coverage.svg?branch=master)](http://codecov.io/github/pine613/crystal-build?branch=master)
+
 ## Libraries
 
 ### Crystal
@@ -219,11 +226,6 @@
 [![Dependency Status](https://img.shields.io/versioneye/d/user/projects/56f2a16f35630e0034fd9c8a.svg?style=flat-square)](https://www.versioneye.com/user/projects/56f2a16f35630e0034fd9c8a)
 
 ### Perl
-
-#### [crystal-build](https://github.com/pine613/crystal-build)
-
-[![Build Status](https://travis-ci.org/pine613/crystal-build.svg?branch=master)](https://travis-ci.org/pine613/crystal-build)
-[![codecov.io](http://codecov.io/github/pine613/crystal-build/coverage.svg?branch=master)](http://codecov.io/github/pine613/crystal-build?branch=master)
 
 #### [codecov](https://github.com/codecov) / [codecov-perl](https://github.com/codecov/codecov-perl)
 

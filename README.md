@@ -44,18 +44,18 @@
 [![Dependency Status](https://shards.rocks/badge/github/pine613/crystal-notify-slack/status.svg)](https://shards.rocks/github/pine613/crystal-notify-slack)
 [![devDependency Status](https://shards.rocks/badge/github/pine613/crystal-notify-slack/dev_status.svg)](https://shards.rocks/github/pine613/crystal-notify-slack)
 
-### Shell
-
-#### [crenv](https://github.com/pine613/crenv)
-
-[![Build Status](https://travis-ci.org/pine613/crenv.svg?branch=master)](https://travis-ci.org/pine613/crenv)
-
 ### Perl
 
 #### [crystal-build](https://github.com/pine613/crystal-build)
 
 [![Build Status](https://travis-ci.org/pine613/crystal-build.svg?branch=master)](https://travis-ci.org/pine613/crystal-build)
 [![codecov.io](http://codecov.io/github/pine613/crystal-build/coverage.svg?branch=master)](http://codecov.io/github/pine613/crystal-build?branch=master)
+
+### Shell
+
+#### [crenv](https://github.com/pine613/crenv)
+
+[![Build Status](https://travis-ci.org/pine613/crenv.svg?branch=master)](https://travis-ci.org/pine613/crenv)
 
 ## Libraries
 

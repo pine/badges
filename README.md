@@ -245,3 +245,9 @@
 [![Build Status](https://travis-ci.org/pine613/p5-SemVer-V2-Strict.svg?branch=master)](https://travis-ci.org/pine613/p5-SemVer-V2-Strict)
 [![Build status](https://ci.appveyor.com/api/projects/status/bdym4j0is9v738v6/branch/master?svg=true)](https://ci.appveyor.com/project/pine613/p5-semver-v2-strict/branch/master)
 [![Coverage Status](http://codecov.io/github/pine613/p5-SemVer-V2-Strict/coverage.svg?branch=master)](https://codecov.io/github/pine613/p5-SemVer-V2-Strict?branch=master)
+
+#### [p5-Mac-OSVersion-Lite](https://github.com/pine613/p5-Mac-OSVersion-Lite)
+
+[![Build Status](https://travis-ci.org/pine613/p5-Mac-OSVersion-Lite.svg?branch=master)](https://travis-ci.org/pine613/p5-Mac-OSVersion-Lite)
+[![Build Status](https://ci.appveyor.com/api/projects/status/73ea8qce2p8065m5/branch/master?svg=true)](https://ci.appveyor.com/project/pine613/p5-Mac-OSVersion-Lite/branch/master)
+[![Coverage Status](http://codecov.io/github/pine613/p5-Mac-OSVersion-Lite/coverage.svg?branch=master)](https://codecov.io/github/pine613/p5-Mac-OSVersion-Lite?branch=master)

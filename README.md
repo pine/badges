@@ -236,15 +236,9 @@
 
 #### [p5-HTTP-Command-Wrapper](https://github.com/pine613/p5-HTTP-Command-Wrapper)
 
-[![Build Status](https://travis-ci.org/pine613/p5-HTTP-Command-Wrapper.svg?branch=master)](https://travis-ci.org/pine613/p5-HTTP-Command-Wrapper)
-[![Build Status](https://ci.appveyor.com/api/projects/status/86fnc27jnv9w13jc/branch/master?svg=true)](https://ci.appveyor.com/project/pine613/p5-HTTP-Command-Wrapper/branch/master)
-[![Coverage Status](http://codecov.io/github/pine613/p5-HTTP-Command-Wrapper/coverage.svg?branch=master)](https://codecov.io/github/pine613/p5-HTTP-Command-Wrapper?branch=master)
-
-#### [p5-SemVer-V2-Strict](https://github.com/pine613/p5-SemVer-V2-Strict)
-
-[![Build Status](https://travis-ci.org/pine613/p5-SemVer-V2-Strict.svg?branch=master)](https://travis-ci.org/pine613/p5-SemVer-V2-Strict)
-[![Build status](https://ci.appveyor.com/api/projects/status/bdym4j0is9v738v6/branch/master?svg=true)](https://ci.appveyor.com/project/pine613/p5-semver-v2-strict/branch/master)
-[![Coverage Status](http://codecov.io/github/pine613/p5-SemVer-V2-Strict/coverage.svg?branch=master)](https://codecov.io/github/pine613/p5-SemVer-V2-Strict?branch=master)
+[![Build Status](https://travis-ci.org/pine/p5-HTTP-Command-Wrapper.svg?branch=master)](https://travis-ci.org/pine/p5-HTTP-Command-Wrapper)
+[![Build Status](https://img.shields.io/appveyor/ci/pine/p5-HTTP-Command-Wrapper/master.svg)](https://ci.appveyor.com/project/pine/p5-HTTP-Command-Wrapper/branch/master)
+[![Coverage Status](http://codecov.io/github/pine/p5-HTTP-Command-Wrapper/coverage.svg?branch=master)](https://codecov.io/github/pine/p5-HTTP-Command-Wrapper?branch=master)
 
 #### [p5-Mac-OSVersion-Lite](https://github.com/pine/p5-Mac-OSVersion-Lite)
 
@@ -252,3 +246,15 @@
 [![Build Status](https://img.shields.io/appveyor/ci/pine/p5-Mac-OSVersion-Lite/master.svg)](https://ci.appveyor.com/project/pine/p5-Mac-OSVersion-Lite/branch/master)
 [![Build Status](https://www.bitrise.io/app/503275701cc9e4da.svg?token=P1KdZ5gize3B8yaQQv9HvQ&branch=master)](https://www.bitrise.io/app/503275701cc9e4da)
 [![Coverage Status](http://codecov.io/github/pine/p5-Mac-OSVersion-Lite/coverage.svg?branch=master)](https://codecov.io/github/pine/p5-Mac-OSVersion-Lite?branch=master)
+
+#### [p5-SemVer-V2-Strict](https://github.com/pine/p5-SemVer-V2-Strict)
+
+[![Build Status](https://travis-ci.org/pine/p5-SemVer-V2-Strict.svg?branch=master)](https://travis-ci.org/pine/p5-SemVer-V2-Strict)
+[![Build status](https://ci.appveyor.com/api/projects/status/bdym4j0is9v738v6/branch/master?svg=true)](https://ci.appveyor.com/project/pine/p5-semver-v2-strict/branch/master)
+[![Coverage Status](http://codecov.io/github/pine/p5-SemVer-V2-Strict/coverage.svg?branch=master)](https://codecov.io/github/pine/p5-SemVer-V2-Strict?branch=master)
+
+#### [p5-Scope-UndefSafe](https://github.com/pine/p5-Scope-UndefSafe)
+
+[![Build Status](https://travis-ci.org/pine/p5-Scope-UndefSafe.svg?branch=master)](https://travis-ci.org/pine/p5-Scope-UndefSafe)
+[![Build Status](https://img.shields.io/appveyor/ci/pine/p5-Scope-UndefSafe/master.svg)](https://ci.appveyor.com/project/pine/p5-Scope-UndefSafe/branch/master)
+[![Coverage Status](http://codecov.io/github/pine/p5-Scope-UndefSafe/coverage.svg?branch=master)](https://codecov.io/github/pine/p5-Scope-UndefSafe?branch=master)

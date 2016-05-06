@@ -250,7 +250,7 @@
 #### [p5-SemVer-V2-Strict](https://github.com/pine/p5-SemVer-V2-Strict)
 
 [![Build Status](https://travis-ci.org/pine/p5-SemVer-V2-Strict.svg?branch=master)](https://travis-ci.org/pine/p5-SemVer-V2-Strict)
-[![Build status](https://ci.appveyor.com/api/projects/status/bdym4j0is9v738v6/branch/master?svg=true)](https://ci.appveyor.com/project/pine/p5-semver-v2-strict/branch/master)
+[![Build status](https://img.shields.io/appveyor/ci/pine/p5-SemVer-V2-Strict/master.svg)](https://ci.appveyor.com/project/pine/p5-semver-v2-strict/branch/master)
 [![Coverage Status](http://codecov.io/github/pine/p5-SemVer-V2-Strict/coverage.svg?branch=master)](https://codecov.io/github/pine/p5-SemVer-V2-Strict?branch=master)
 
 #### [p5-Scope-UndefSafe](https://github.com/pine/p5-Scope-UndefSafe)

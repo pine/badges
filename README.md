@@ -152,21 +152,21 @@
 [![Dependency Status](https://img.shields.io/david/pine/grunt-vimlint.svg?style=flat-square)](https://david-dm.org/pine/grunt-vimlint)
 [![devDependency Status](https://img.shields.io/david/dev/pine/grunt-vimlint.svg?style=flat-square)](https://david-dm.org/pine/grunt-vimlint#info=devDependencies)
 
-#### [grunt-zshlint](https://github.com/pine613/grunt-zshlint)
+#### [grunt-zshlint](https://github.com/pine/grunt-zshlint)
 
 [![npm version](https://img.shields.io/npm/v/grunt-zshlint.svg?style=flat-square)](https://www.npmjs.com/package/grunt-zshlint)
 [![Build Status](http://img.shields.io/travis/pine/grunt-zshlint/master.svg?style=flat-square)](https://travis-ci.org/pine/grunt-zshlint)
 [![Dependency Status](https://img.shields.io/david/pine/grunt-zshlint.svg?style=flat-square)](https://david-dm.org/pine/grunt-zshlint)
 [![devDependency Status](https://img.shields.io/david/dev/pine/grunt-zshlint.svg?style=flat-square)](https://david-dm.org/pine/grunt-zshlint#info=devDependencies)
 
-#### [gulp-dotenv](https://github.com/pine613/gulp-dotenv)
+#### [gulp-dotenv](https://github.com/pine/gulp-dotenv)
 
 [![npm version](https://img.shields.io/npm/v/gulp-dotenv.svg?style=flat-square)](https://www.npmjs.com/package/gulp-dotenv)
 [![Build Status](https://img.shields.io/travis/pine/gulp-dotenv/master.svg?style=flat-square)](https://travis-ci.org/pine/gulp-dotenv)
 [![Dependency Status](https://img.shields.io/david/pine/gulp-dotenv.svg?style=flat-square)](https://david-dm.org/pine/gulp-dotenv)
 [![devDependency Status](https://img.shields.io/david/dev/pine/gulp-dotenv.svg?style=flat-square)](https://david-dm.org/pine/gulp-dotenv#info=devDependencies)
 
-#### [gulp-vimlint](https://github.com/pine613/gulp-vimlint)
+#### [gulp-vimlint](https://github.com/pine/gulp-vimlint)
 
 [![npm version](https://img.shields.io/npm/v/gulp-vimlint.svg?style=flat-square)](https://www.npmjs.com/package/gulp-vimlint)
 [![Build Status](https://img.shields.io/travis/pine/gulp-vimlint/master.svg?style=flat-square)](https://travis-ci.org/pine613/gulp-vimlint)
@@ -175,7 +175,7 @@
 [![Dependency Status](https://img.shields.io/david/pine/gulp-vimlint.svg?style=flat-square)](https://david-dm.org/pine613/gulp-vimlint)
 [![devDependency Status](https://img.shields.io/david/dev/pine/gulp-vimlint.svg?style=flat-square)](https://david-dm.org/pine613/gulp-vimlint#info=devDependencies)
 
-#### [node-camo-url](https://github.com/pine613/node-camo-url)
+#### [node-camo-url](https://github.com/pine/node-camo-url)
 
 [![npm version](https://img.shields.io/npm/v/camo-url.svg?style=flat-square)](https://www.npmjs.com/package/camo-url)
 [![Build Status](http://img.shields.io/travis/pine/node-camo-url/master.svg?style=flat-square)](https://travis-ci.org/pine/node-camo-url)
@@ -183,7 +183,7 @@
 [![Dependency Status](https://img.shields.io/david/pine/node-camo-url.svg?style=flat-square)](https://david-dm.org/pine/node-camo-url)
 [![devDependency Status](https://img.shields.io/david/dev/pine/node-camo-url.svg?style=flat-square)](https://david-dm.org/pine/node-camo-url#info=devDependencies)
 
-#### [node-tamagoya](https://github.com/pine613/node-tamagoya)
+#### [node-tamagoya](https://github.com/pine/node-tamagoya)
 
 [![npm](https://img.shields.io/npm/v/tamagoya.svg?style=flat-square)](https://www.npmjs.org/package/tamagoya)
 [![Build Status](https://img.shields.io/travis/pine/node-tamagoya/master.svg?style=flat-square)](https://travis-ci.org/pine/node-tamagoya)
@@ -191,7 +191,7 @@
 [![Dependency Status](https://img.shields.io/david/pine/node-tamagoya.svg?style=flat-square)](https://david-dm.org/pine/node-tamagoya)
 [![devDependency Status](https://img.shields.io/david/dev/pine/node-tamagoya.svg?style=flat-square)](https://david-dm.org/pine/node-tamagoya#info=devDependencies)
 
-#### [node-vimlint](https://github.com/pine613/node-vimlint)
+#### [node-vimlint](https://github.com/pine/node-vimlint)
 
 [![npm version](https://img.shields.io/npm/v/vimlint.svg?style=flat-square)](http://badge.fury.io/js/vimlint)
 [![Build Status](https://img.shields.io/travis/pine/node-vimlint/master.svg?style=flat-square)](https://travis-ci.org/pine/node-vimlint)
@@ -200,11 +200,11 @@
 [![Dependency Status](https://img.shields.io/david/pine/node-vimlint.svg?style=flat-square)](https://david-dm.org/pine/node-vimlint)
 [![devDependency Status](https://img.shields.io/david/dev/pine/node-vimlint.svg?style=flat-square)](https://david-dm.org/pine/node-vimlint#info=devDependencies)
 
-### [clean-repos-dir](https://github.com/pine613/clean-repos-dir)
+### [clean-repos-dir](https://github.com/pine/clean-repos-dir)
 
-[![Build Status](https://travis-ci.org/pine613/clean-repos-dir.svg?branch=master)](https://travis-ci.org/pine613/clean-repos-dir)
-[![Dependency Status](https://david-dm.org/pine613/clean-repos-dir.svg)](https://david-dm.org/pine613/clean-repos-dir)
-[![devDependency Status](https://david-dm.org/pine613/clean-repos-dir/dev-status.svg)](https://david-dm.org/pine613/clean-repos-dir#info=devDependencies)
+[![Build Status](https://travis-ci.org/pine/clean-repos-dir.svg?branch=master)](https://travis-ci.org/pine/clean-repos-dir)
+[![Dependency Status](https://david-dm.org/pine/clean-repos-dir.svg)](https://david-dm.org/pine/clean-repos-dir)
+[![devDependency Status](https://david-dm.org/pine/clean-repos-dir/dev-status.svg)](https://david-dm.org/pine/clean-repos-dir#info=devDependencies)
 
 ### [NyagosUpdateChecker](https://github.com/pine613/NyagosUpdateChecker)
 

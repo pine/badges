@@ -111,30 +111,30 @@
 [![Code Climate](https://img.shields.io/codeclimate/github/pine613/dotfiles.svg?style=flat-square)](https://codeclimate.com/github/pine613/dotfiles)
 [![devDependency Status](https://img.shields.io/david/dev/pine613/dotfiles.svg?style=flat-square)](https://david-dm.org/pine613/dotfiles#info=devDependencies)
 
-#### [bucaran](https://github.com/bucaran) / [fly-mocha](https://github.com/bucaran/fly-mocha)
+#### [brj](https://github.com/brj) / [fly-mocha](https://github.com/brj/fly-mocha)
 
 [![npm package](https://img.shields.io/npm/v/fly-mocha.svg?style=flat-square)](https://www.npmjs.org/package/fly-mocha)
-[![](http://img.shields.io/travis/bucaran/fly-mocha.svg?style=flat-square)](https://travis-ci.org/bucaran/fly-mocha)
-[![](https://img.shields.io/david/bucaran/fly-mocha.svg?style=flat-square)](https://david-dm.org/bucaran/fly-mocha)
-[![](https://img.shields.io/david/dev/bucaran/fly-mocha.svg?style=flat-square)](https://david-dm.org/bucaran/fly-mocha#info=devDependencies&view=table)
+[![](http://img.shields.io/travis/brj/fly-mocha.svg?style=flat-square)](https://travis-ci.org/brjfly-mocha)
+[![](https://img.shields.io/david/brj/fly-mocha.svg?style=flat-square)](https://david-dm.org/brj/fly-mocha)
+[![](https://img.shields.io/david/dev/brj/fly-mocha.svg?style=flat-square)](https://david-dm.org/brj/fly-mocha#info=devDependencies&view=table)
 
-#### [fly-ava](https://github.com/pine613/fly-ava)
+#### [fly-ava](https://github.com/pine/fly-ava)
 
 [![npm package](https://img.shields.io/npm/v/fly-ava.svg?style=flat-square)](https://www.npmjs.org/package/fly-ava)
-[![](http://img.shields.io/travis/pine613/fly-ava.svg?style=flat-square)](https://travis-ci.org/pine613/fly-ava)
-[![](https://img.shields.io/appveyor/ci/pine613/fly-ava/master.svg?style=flat-square)](https://ci.appveyor.com/project/pine613/fly-ava/branch/master)
-[![](https://img.shields.io/codeclimate/github/pine613/fly-ava.svg?style=flat-square)](https://codeclimate.com/github/pine613/fly-ava)
-[![](https://img.shields.io/david/pine613/fly-ava.svg?style=flat-square)](https://david-dm.org/pine613/fly-ava)
-[![](https://img.shields.io/david/dev/pine613/fly-ava.svg?style=flat-square)](https://david-dm.org/pine613/fly-ava#info=devDependencies&view=table)
+[![](http://img.shields.io/travis/pine/fly-ava.svg?style=flat-square)](https://travis-ci.org/pine/fly-ava)
+[![](https://img.shields.io/appveyor/ci/pine/fly-ava/master.svg?style=flat-square)](https://ci.appveyor.com/project/pine/fly-ava/branch/master)
+[![](https://img.shields.io/codeclimate/github/pine/fly-ava.svg?style=flat-square)](https://codeclimate.com/github/pine/fly-ava)
+[![](https://img.shields.io/david/pine/fly-ava.svg?style=flat-square)](https://david-dm.org/pine/fly-ava)
+[![](https://img.shields.io/david/dev/pine/fly-ava.svg?style=flat-square)](https://david-dm.org/pine/fly-ava#info=devDependencies&view=table)
 
-#### [fly-ejs](https://github.com/pine613/fly-ejs)
+#### [fly-ejs](https://github.com/pine/fly-ejs)
 
 [![npm package](https://img.shields.io/npm/v/fly-ejs.svg?style=flat-square)](https://www.npmjs.org/package/fly-ejs)
-[![](http://img.shields.io/travis/pine613/fly-ejs.svg?style=flat-square)](https://travis-ci.org/pine613/fly-ejs)
-[![](https://img.shields.io/appveyor/ci/pine613/fly-ejs/master.svg?style=flat-square)](https://ci.appveyor.com/project/pine613/fly-ejs/branch/master)
-[![](https://img.shields.io/codeclimate/github/pine613/fly-ejs.svg?style=flat-square)](https://codeclimate.com/github/pine613/fly-ejs)
-[![](https://img.shields.io/david/pine613/fly-ejs.svg?style=flat-square)](https://david-dm.org/pine613/fly-ejs)
-[![](https://img.shields.io/david/dev/pine613/fly-ejs.svg?style=flat-square)](https://david-dm.org/pine613/fly-ejs#info=devDependencies&view=table)
+[![](http://img.shields.io/travis/pine/fly-ejs.svg?style=flat-square)](https://travis-ci.org/pine/fly-ejs)
+[![](https://img.shields.io/appveyor/ci/pine/fly-ejs/master.svg?style=flat-square)](https://ci.appveyor.com/project/pine/fly-ejs/branch/master)
+[![](https://img.shields.io/codeclimate/github/pine/fly-ejs.svg?style=flat-square)](https://codeclimate.com/github/pine/fly-ejs)
+[![](https://img.shields.io/david/pine/fly-ejs.svg?style=flat-square)](https://david-dm.org/pine/fly-ejs)
+[![](https://img.shields.io/david/dev/pine/fly-ejs.svg?style=flat-square)](https://david-dm.org/pine/fly-ejs#info=devDependencies&view=table)
 
 #### [fly-vimlint](https://github.com/pine613/fly-vimlint)
 

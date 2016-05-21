@@ -177,11 +177,11 @@
 
 #### [node-camo-url](https://github.com/pine613/node-camo-url)
 
-[![npm version](https://badge.fury.io/js/camo-url.svg)](http://badge.fury.io/js/camo-url)
-[![Build Status](https://travis-ci.org/pine613/node-camo-url.svg?branch=master)](https://travis-ci.org/pine613/node-camo-url)
-[![Coverage Status](https://coveralls.io/repos/pine613/node-camo-url/badge.svg?branch=master)](https://coveralls.io/r/pine613/node-camo-url?branch=master)
-[![Dependency Status](https://david-dm.org/pine613/node-camo-url.svg)](https://david-dm.org/pine613/node-camo-url)
-[![devDependency Status](https://david-dm.org/pine613/node-camo-url/dev-status.svg)](https://david-dm.org/pine613/node-camo-url#info=devDependencies)
+[![npm version](https://img.shields.io/npm/v/camo-url.svg?style=flat-square)](https://www.npmjs.com/package/camo-url)
+[![Build Status](http://img.shields.io/travis/pine/node-camo-url/master.svg?style=flat-square)](https://travis-ci.org/pine/node-camo-url)
+[![Coverage Status](https://img.shields.io/coveralls/pine/node-camo-url/master.svg?style=flat-square)](https://coveralls.io/r/pine/node-camo-url?branch=master)
+[![Dependency Status](https://img.shields.io/david/pine/node-camo-url.svg?style=flat-square)](https://david-dm.org/pine/node-camo-url)
+[![devDependency Status](https://img.shields.io/david/dev/pine/node-camo-url.svg?style=flat-square)](https://david-dm.org/pine/node-camo-url#info=devDependencies)
 
 #### [node-tamagoya](https://github.com/pine613/node-tamagoya)
 

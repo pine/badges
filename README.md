@@ -144,13 +144,13 @@
 [![](https://img.shields.io/david/pine/fly-vimlint.svg?style=flat-square)](https://david-dm.org/pine/fly-vimlint)
 [![](https://img.shields.io/david/dev/pine/fly-vimlint.svg?style=flat-square)](https://david-dm.org/pine/fly-vimlint#info=devDependencies&view=table)
 
-#### [grunt-vimlint](https://github.com/pine613/grunt-vimlint)
+#### [grunt-vimlint](https://github.com/pine/grunt-vimlint)
 
-[![npm version](https://badge.fury.io/js/grunt-vimlint.svg)](http://badge.fury.io/js/grunt-vimlint)
-[![Build Status](https://travis-ci.org/pine613/grunt-vimlint.svg?branch=master)](https://travis-ci.org/pine613/grunt-vimlint)
-[![Code Climate](https://codeclimate.com/github/pine613/grunt-vimlint/badges/gpa.svg)](https://codeclimate.com/github/pine613/grunt-vimlint)
-[![Dependency Status](https://david-dm.org/pine613/grunt-vimlint.svg)](https://david-dm.org/pine613/grunt-vimlint)
-[![devDependency Status](https://david-dm.org/pine613/grunt-vimlint/dev-status.svg)](https://david-dm.org/pine613/grunt-vimlint#info=devDependencies)
+[![npm version](https://img.shields.io/npm/v/grunt-vimlint.svg?style=flat-square)](https://www.npmjs.com/package/grunt-vimlint)
+[![Build Status](https://img.shields.io/travis/pine/grunt-vimlint/master.svg?style=flat-square)](https://travis-ci.org/pine/grunt-vimlint)
+[![Code Climate](https://img.shields.io/codeclimate/github/pine/grunt-vimlint.svg?style=flat-square)](https://codeclimate.com/github/pine/grunt-vimlint)
+[![Dependency Status](https://img.shields.io/david/pine/grunt-vimlint.svg?style=flat-square)](https://david-dm.org/pine/grunt-vimlint)
+[![devDependency Status](https://img.shields.io/david/dev/pine/grunt-vimlint.svg?style=flat-square)](https://david-dm.org/pine/grunt-vimlint#info=devDependencies)
 
 #### [grunt-zshlint](https://github.com/pine613/grunt-zshlint)
 

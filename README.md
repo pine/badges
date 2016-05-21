@@ -194,11 +194,11 @@
 #### [node-vimlint](https://github.com/pine613/node-vimlint)
 
 [![npm version](https://img.shields.io/npm/v/vimlint.svg?style=flat-square)](http://badge.fury.io/js/vimlint)
-[![Build Status](https://img.shields.io/travis/pine613/node-vimlint/master.svg?style=flat-square)](https://travis-ci.org/pine613/node-vimlint)
-[![Code Climate](https://img.shields.io/codeclimate/github/pine613/node-vimlint.svg?style=flat-square)](https://codeclimate.com/github/pine613/node-vimlint)
-[![Coverage Status](https://img.shields.io/coveralls/pine613/node-vimlint/master.svg?style=flat-square)](https://coveralls.io/r/pine613/node-vimlint?branch=master)
-[![Dependency Status](https://img.shields.io/david/pine613/node-vimlint.svg?style=flat-square)](https://david-dm.org/pine613/node-vimlint)
-[![devDependency Status](https://img.shields.io/david/dev/pine613/node-vimlint.svg?style=flat-square)](https://david-dm.org/pine613/node-vimlint#info=devDependencies)
+[![Build Status](https://img.shields.io/travis/pine/node-vimlint/master.svg?style=flat-square)](https://travis-ci.org/pine/node-vimlint)
+[![Code Climate](https://img.shields.io/codeclimate/github/pine/node-vimlint.svg?style=flat-square)](https://codeclimate.com/github/pine/node-vimlint)
+[![Coverage Status](https://img.shields.io/coveralls/pine/node-vimlint/master.svg?style=flat-square)](https://coveralls.io/r/pine/node-vimlint?branch=master)
+[![Dependency Status](https://img.shields.io/david/pine/node-vimlint.svg?style=flat-square)](https://david-dm.org/pine/node-vimlint)
+[![devDependency Status](https://img.shields.io/david/dev/pine/node-vimlint.svg?style=flat-square)](https://david-dm.org/pine/node-vimlint#info=devDependencies)
 
 ### [clean-repos-dir](https://github.com/pine613/clean-repos-dir)
 

@@ -206,10 +206,10 @@
 [![Dependency Status](https://david-dm.org/pine/clean-repos-dir.svg)](https://david-dm.org/pine/clean-repos-dir)
 [![devDependency Status](https://david-dm.org/pine/clean-repos-dir/dev-status.svg)](https://david-dm.org/pine/clean-repos-dir#info=devDependencies)
 
-### [NyagosUpdateChecker](https://github.com/pine/NyagosUpdateChecker)
+#### [NyagosUpdateChecker](https://github.com/pine/NyagosUpdateChecker)
 
-[![Build Status](https://travis-ci.org/pine613/NyagosUpdateChecker.svg?branch=master)](https://travis-ci.org/pine613/NyagosUpdateChecker)
-[![devDependency Status](https://david-dm.org/pine613/NyagosUpdateChecker/dev-status.svg)](https://david-dm.org/pine613/NyagosUpdateChecker#info=devDependencies)
+[![Build Status](https://travis-ci.org/pine/NyagosUpdateChecker.svg?branch=master)](https://travis-ci.org/pine/NyagosUpdateChecker)
+[![devDependency Status](https://david-dm.org/pine/NyagosUpdateChecker/dev-status.svg)](https://david-dm.org/pine/NyagosUpdateChecker#info=devDependencies)
 
 #### [OperaUpdateChecker](https://github.com/pine/OperaUpdateChecker)
 

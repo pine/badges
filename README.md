@@ -200,7 +200,7 @@
 [![Dependency Status](https://img.shields.io/david/pine/node-vimlint.svg?style=flat-square)](https://david-dm.org/pine/node-vimlint)
 [![devDependency Status](https://img.shields.io/david/dev/pine/node-vimlint.svg?style=flat-square)](https://david-dm.org/pine/node-vimlint#info=devDependencies)
 
-### [clean-repos-dir](https://github.com/pine/clean-repos-dir)
+#### [clean-repos-dir](https://github.com/pine/clean-repos-dir)
 
 [![Build Status](https://travis-ci.org/pine/clean-repos-dir.svg?branch=master)](https://travis-ci.org/pine/clean-repos-dir)
 [![Dependency Status](https://david-dm.org/pine/clean-repos-dir.svg)](https://david-dm.org/pine/clean-repos-dir)

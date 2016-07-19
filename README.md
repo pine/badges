@@ -175,6 +175,13 @@
 [![Dependency Status](https://img.shields.io/david/pine/gulp-vimlint.svg?style=flat-square)](https://david-dm.org/pine613/gulp-vimlint)
 [![devDependency Status](https://img.shields.io/david/dev/pine/gulp-vimlint.svg?style=flat-square)](https://david-dm.org/pine613/gulp-vimlint#info=devDependencies)
 
+#### [is-lo](https://github.com/pine/is-lo)
+[![npm](https://img.shields.io/npm/v/is-lo.svg?style=flat-square)](https://www.npmjs.org/package/is-lo)
+[![Build Status](https://img.shields.io/travis/pine/is-lo/master.svg?style=flat-square)](https://travis-ci.org/pine/is-lo)
+[![Build Status](https://img.shields.io/appveyor/ci/pine/is-lo/master.svg?style=flat-square&maxAge=2592000)](https://ci.appveyor.com/project/pine/is-lo/branch/master)
+[![Dependency Status](https://img.shields.io/david/pine/is-lo.svg?style=flat-square)](https://david-dm.org/pine/is-lo)
+[![devDependency Status](https://img.shields.io/david/dev/pine/is-lo.svg?style=flat-square)](https://david-dm.org/pine/is-lo#info=devDependencies)
+
 #### [node-camo-url](https://github.com/pine/node-camo-url)
 
 [![npm version](https://img.shields.io/npm/v/camo-url.svg?style=flat-square)](https://www.npmjs.com/package/camo-url)
@@ -199,6 +206,12 @@
 [![Coverage Status](https://img.shields.io/coveralls/pine/node-vimlint/master.svg?style=flat-square)](https://coveralls.io/r/pine/node-vimlint?branch=master)
 [![Dependency Status](https://img.shields.io/david/pine/node-vimlint.svg?style=flat-square)](https://david-dm.org/pine/node-vimlint)
 [![devDependency Status](https://img.shields.io/david/dev/pine/node-vimlint.svg?style=flat-square)](https://david-dm.org/pine/node-vimlint#info=devDependencies)
+
+#### [self-ip](https://github.com/pine/self-ip)
+[![npm](https://img.shields.io/npm/v/self-ip.svg?style=flat-square)](https://www.npmjs.org/package/self-ip)
+[![Build Status](https://img.shields.io/travis/pine/self-ip/master.svg?style=flat-square)](https://travis-ci.org/pine/self-ip)
+[![Dependency Status](https://img.shields.io/david/pine/self-ip.svg?style=flat-square)](https://david-dm.org/pine/self-ip)
+[![devDependency Status](https://img.shields.io/david/dev/pine/self-ip.svg?style=flat-square)](https://david-dm.org/pine/self-ip#info=devDependencies)
 
 #### [clean-repos-dir](https://github.com/pine/clean-repos-dir)
 

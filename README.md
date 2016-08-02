@@ -104,6 +104,13 @@
 [![Dependency Status](https://img.shields.io/david/pine/amznjp-url-normalize.svg?style=flat-square)](https://david-dm.org/pine/amznjp-url-normalize)
 [![devDependency Status](https://img.shields.io/david/dev/pine/amznjp-url-normalize.svg?style=flat-square)](https://david-dm.org/pine/amznjp-url-normalize#info=devDependencies)
 
+#### [arraybuffer-loader](https://github.com/pine/arraybuffer-loader)
+
+[![npm](https://img.shields.io/npm/v/arraybuffer-loader.svg?style=flat-square)](https://www.npmjs.org/package/arraybuffer-loader)
+[![Travis](https://img.shields.io/travis/pine/arraybuffer-loader/master.svg?style=flat-square)](https://travis-ci.org/pine/arraybuffer-loader)
+[![Dependency Status](https://img.shields.io/david/pine/arraybuffer-loader.svg?maxAge=2592000&style=flat-square)](https://david-dm.org/pine/is-lo)
+[![devDependency Status](https://img.shields.io/david/dev/pine/arraybuffer-loader.svg?maxAge=2592000&style=flat-square)](https://david-dm.org/pine/is-lo#info=devDependencies)
+
 #### [dotfiles](https://github.com/pine613/dotfiles)
 
 [![wercker status](https://img.shields.io/wercker/ci/54f5f52d1afdc9f97c000564.svg?style=flat-square)](https://app.wercker.com/project/bykey/0f3a3fac65929edc8fd6e53818d5aba6)

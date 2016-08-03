@@ -108,6 +108,7 @@
 
 [![npm](https://img.shields.io/npm/v/arraybuffer-loader.svg?style=flat-square)](https://www.npmjs.org/package/arraybuffer-loader)
 [![Travis](https://img.shields.io/travis/pine/arraybuffer-loader/master.svg?style=flat-square)](https://travis-ci.org/pine/arraybuffer-loader)
+[![Build Status](https://img.shields.io/appveyor/ci/pine/arraybuffer-loader/master.svg?style=flat-square&maxAge=2592000)](https://ci.appveyor.com/project/pine/arraybuffer-loader/branch/master)
 [![Dependency Status](https://img.shields.io/david/pine/arraybuffer-loader.svg?maxAge=2592000&style=flat-square)](https://david-dm.org/pine/is-lo)
 [![devDependency Status](https://img.shields.io/david/dev/pine/arraybuffer-loader.svg?maxAge=2592000&style=flat-square)](https://david-dm.org/pine/is-lo#info=devDependencies)
 
@@ -125,14 +126,14 @@
 [![](https://img.shields.io/david/brj/fly-mocha.svg?style=flat-square)](https://david-dm.org/brj/fly-mocha)
 [![](https://img.shields.io/david/dev/brj/fly-mocha.svg?style=flat-square)](https://david-dm.org/brj/fly-mocha#info=devDependencies&view=table)
 
-#### [fly-ava](https://github.com/pine/fly-ava)
+#### [flyjs](https://github.com/flyjs) / [fly-ava](https://github.com/pine/fly-ava)
 
-[![npm package](https://img.shields.io/npm/v/fly-ava.svg?style=flat-square)](https://www.npmjs.org/package/fly-ava)
-[![](http://img.shields.io/travis/pine/fly-ava.svg?style=flat-square)](https://travis-ci.org/pine/fly-ava)
-[![](https://img.shields.io/appveyor/ci/pine/fly-ava/master.svg?style=flat-square)](https://ci.appveyor.com/project/pine/fly-ava/branch/master)
-[![](https://img.shields.io/codeclimate/github/pine/fly-ava.svg?style=flat-square)](https://codeclimate.com/github/pine/fly-ava)
-[![](https://img.shields.io/david/pine/fly-ava.svg?style=flat-square)](https://david-dm.org/pine/fly-ava)
-[![](https://img.shields.io/david/dev/pine/fly-ava.svg?style=flat-square)](https://david-dm.org/pine/fly-ava#info=devDependencies&view=table)
+[![npm package](https://img.shields.io/npm/v/fly-ava.svg?maxAge=2592000&style=flat-square)](https://www.npmjs.org/package/fly-ava)
+[![](http://img.shields.io/travis/flyjs/fly-ava.svg?maxAge=2592000&style=flat-square)](https://travis-ci.org/pine/fly-ava)
+[![](https://img.shields.io/appveyor/ci/pine/fly-ava/master.svg?maxAge=2592000&style=flat-square)](https://ci.appveyor.com/project/pine/fly-ava/branch/master)
+[![](https://img.shields.io/codeclimate/github/pine/fly-ava.svg?maxAge=2592000&style=flat-square)](https://codeclimate.com/github/pine/fly-ava)
+[![](https://img.shields.io/david/pine/fly-ava.svg?maxAge=2592000&style=flat-square)](https://david-dm.org/pine/fly-ava)
+[![](https://img.shields.io/david/dev/pine/fly-ava.svg?maxAge=2592000&style=flat-square)](https://david-dm.org/pine/fly-ava#info=devDependencies&view=table)
 
 #### [fly-ejs](https://github.com/pine/fly-ejs)
 

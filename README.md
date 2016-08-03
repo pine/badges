@@ -119,14 +119,14 @@
 [![Code Climate](https://img.shields.io/codeclimate/github/pine613/dotfiles.svg?style=flat-square)](https://codeclimate.com/github/pine613/dotfiles)
 [![devDependency Status](https://img.shields.io/david/dev/pine613/dotfiles.svg?style=flat-square)](https://david-dm.org/pine613/dotfiles#info=devDependencies)
 
-#### [brj](https://github.com/brj) / [fly-mocha](https://github.com/brj/fly-mocha)
+#### [flyjs](https://github.com/flyjs) / [fly-mocha](https://github.com/flyjs/fly-mocha)
 
 [![npm package](https://img.shields.io/npm/v/fly-mocha.svg?style=flat-square)](https://www.npmjs.org/package/fly-mocha)
-[![](http://img.shields.io/travis/brj/fly-mocha.svg?style=flat-square)](https://travis-ci.org/brjfly-mocha)
-[![](https://img.shields.io/david/brj/fly-mocha.svg?style=flat-square)](https://david-dm.org/brj/fly-mocha)
-[![](https://img.shields.io/david/dev/brj/fly-mocha.svg?style=flat-square)](https://david-dm.org/brj/fly-mocha#info=devDependencies&view=table)
+[![](http://img.shields.io/travis/flyjs/fly-mocha.svg?style=flat-square)](https://travis-ci.org/flyjsfly-mocha)
+[![](https://img.shields.io/david/flyjs/fly-mocha.svg?style=flat-square)](https://david-dm.org/flyjs/fly-mocha)
+[![](https://img.shields.io/david/dev/flyjs/fly-mocha.svg?style=flat-square)](https://david-dm.org/flyjs/fly-mocha#info=devDependencies&view=table)
 
-#### [flyjs](https://github.com/flyjs) / [fly-ava](https://github.com/pine/fly-ava)
+#### [flyjs](https://github.com/flyjs) / [fly-ava](https://github.com/flyjs/fly-ava)
 
 [![npm package](https://img.shields.io/npm/v/fly-ava.svg?maxAge=2592000&style=flat-square)](https://www.npmjs.org/package/fly-ava)
 [![](http://img.shields.io/travis/flyjs/fly-ava.svg?maxAge=2592000&style=flat-square)](https://travis-ci.org/pine/fly-ava)

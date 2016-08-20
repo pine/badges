@@ -119,6 +119,13 @@
 [![Code Climate](https://img.shields.io/codeclimate/github/pine613/dotfiles.svg?style=flat-square)](https://codeclimate.com/github/pine613/dotfiles)
 [![devDependency Status](https://img.shields.io/david/dev/pine613/dotfiles.svg?style=flat-square)](https://david-dm.org/pine613/dotfiles#info=devDependencies)
 
+#### [emoji-gen](https://github.com/emoji-gen) / [vue-sharer](https://github.com/emoji-gen/vue-sharer)
+
+[![npm](https://img.shields.io/npm/v/vue-sharer.svg?maxAge=2592000&style=flat-square&x)](https://www.npmjs.org/package/vue-sharer)
+[![Travis](https://img.shields.io/travis/emoji-gen/vue-sharer/master.svg?maxAge=2592000&style=flat-square&x)](https://travis-ci.org/emoji-gen/vue-sharer)
+[![Dependency Status](https://img.shields.io/david/emoji-gen/vue-sharer.svg?maxAge=2592000&style=flat-square)](https://david-dm.org/emoji-gen/vue-sharer)
+[![devDependency Status](https://img.shields.io/david/dev/emoji-gen/vue-sharer.svg?maxAge=2592000&style=flat-square)](https://david-dm.org/emoji-gen/vue-sharer?type=dev)
+
 #### [flyjs](https://github.com/flyjs) / [fly-mocha](https://github.com/flyjs/fly-mocha)
 
 [![npm package](https://img.shields.io/npm/v/fly-mocha.svg?style=flat-square)](https://www.npmjs.org/package/fly-mocha)

@@ -262,6 +262,10 @@
 
 #### [codecov](https://github.com/codecov) / [example-perl](https://github.com/codecov/example-perl)
 
+#### [p5-Hash-Util-Pick](https://github.com/pine/p5-Hash-Util-Pick)
+
+[![Build Status](https://travis-ci.org/pine/p5-Hash-Util-Pick.svg?branch=master)](https://travis-ci.org/pine/p5-Hash-Util-Pick)
+
 #### [p5-HTTP-Command-Wrapper](https://github.com/pine613/p5-HTTP-Command-Wrapper)
 
 [![Build Status](https://travis-ci.org/pine/p5-HTTP-Command-Wrapper.svg?branch=master)](https://travis-ci.org/pine/p5-HTTP-Command-Wrapper)
@@ -286,3 +290,5 @@
 [![Build Status](https://travis-ci.org/pine/p5-Scope-UndefSafe.svg?branch=master)](https://travis-ci.org/pine/p5-Scope-UndefSafe)
 [![Build Status](https://img.shields.io/appveyor/ci/pine/p5-Scope-UndefSafe/master.svg)](https://ci.appveyor.com/project/pine/p5-Scope-UndefSafe/branch/master)
 [![Coverage Status](http://codecov.io/github/pine/p5-Scope-UndefSafe/coverage.svg?branch=master)](https://codecov.io/github/pine/p5-Scope-UndefSafe?branch=master)
+
+

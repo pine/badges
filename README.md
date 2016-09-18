@@ -265,6 +265,7 @@
 #### [p5-Hash-Util-Pick](https://github.com/pine/p5-Hash-Util-Pick)
 
 [![Build Status](https://travis-ci.org/pine/p5-Hash-Util-Pick.svg?branch=master)](https://travis-ci.org/pine/p5-Hash-Util-Pick)
+[![Build Status](https://img.shields.io/appveyor/ci/pine/p5-Hash-Util-Pick/master.svg)](https://ci.appveyor.com/project/pine/p5-Hash-Util-Pick/branch/master)
 
 #### [p5-HTTP-Command-Wrapper](https://github.com/pine613/p5-HTTP-Command-Wrapper)
 

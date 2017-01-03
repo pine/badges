@@ -10,6 +10,12 @@
 [![Dependency Status](https://img.shields.io/david/pine/Irori.svg?style=flat-square)](https://david-dm.org/pine/Irori)
 [![devDependency Status](https://img.shields.io/david/dev/pine/Irori.svg?style=flat-square)](https://david-dm.org/pine/Irori#info=devDependencies)
 
+### [Izetta](https://github.com/pine/Izetta)
+
+[![CircleCI branch](https://img.shields.io/circleci/project/github/pine/Izetta/master.svg?style=flat-square)](https://circleci.com/gh/pine/Izetta)
+[![David](https://img.shields.io/david/pine/Izetta.svg?style=flat-square)](https://david-dm.org/pine/Izetta)
+[![David](https://img.shields.io/david/dev/pine/Izetta.svg?style=flat-square)](https://david-dm.org/pine/Izetta)
+
 ### [Shards Rocks](https://shards.rocks/)
 
 #### Server

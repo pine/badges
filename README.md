@@ -16,6 +16,11 @@
 [![David](https://img.shields.io/david/pine/Izetta.svg?style=flat-square)](https://david-dm.org/pine/Izetta)
 [![David](https://img.shields.io/david/dev/pine/Izetta.svg?style=flat-square)](https://david-dm.org/pine/Izetta)
 
+### [Shinku](https://github.com/pine/Shinku)
+
+[![CircleCI](https://circleci.com/gh/pine/Shinku/tree/master.svg?style=shield)](https://circleci.com/gh/pine/Shinku/tree/master)
+[![Dependency Status](https://gemnasium.com/badges/github.com/pine/Shinku.svg)](https://gemnasium.com/github.com/pine/Shinku)
+
 ### [Shards Rocks](https://shards.rocks/)
 
 #### Server

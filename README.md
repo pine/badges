@@ -4,6 +4,11 @@
 
 ## Services
 
+### [Emilia](https://github.com/pine/Emilia)
+
+[![CircleCI](https://circleci.com/gh/pine/Emilia/tree/master.svg?style=shield)](https://circleci.com/gh/pine/Emilia/tree/master)
+[![Dependency Status](https://gemnasium.com/badges/github.com/pine/Emilia.svg)](https://gemnasium.com/github.com/pine/Emilia)
+
 ### [Irori](https://github.com/pine/Irori)
 
 [![Circle CI](https://img.shields.io/circleci/project/pine/Irori/master.svg?style=flat-square)](https://circleci.com/gh/pine/Irori)

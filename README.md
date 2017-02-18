@@ -135,12 +135,25 @@
 [![Code Climate](https://img.shields.io/codeclimate/github/pine613/dotfiles.svg?style=flat-square)](https://codeclimate.com/github/pine613/dotfiles)
 [![devDependency Status](https://img.shields.io/david/dev/pine613/dotfiles.svg?style=flat-square)](https://david-dm.org/pine613/dotfiles#info=devDependencies)
 
+#### [emoji-gen](https://github.com/emoji-gen) / [ptero](https://github.com/emoji-gen/ptero)
+
+[![npm](https://img.shields.io/npm/v/ptero.svg?maxAge=2592000&style=flat-square)](https://www.npmjs.org/package/ptero)
+[![Travis](https://img.shields.io/travis/emoji-gen/ptero/master.svg?maxAge=2592000&style=flat-square&x)](https://travis-ci.org/emoji-gen/ptero)
+[![Dependency Status](https://img.shields.io/gemnasium/emoji-gen/ptero.svg?maxAge=2592000&style=flat-square)](https://gemnasium.com/github.com/emoji-gen/ptero)
+
 #### [emoji-gen](https://github.com/emoji-gen) / [vue-sharer](https://github.com/emoji-gen/vue-sharer)
 
 [![npm](https://img.shields.io/npm/v/vue-sharer.svg?maxAge=2592000&style=flat-square&x)](https://www.npmjs.org/package/vue-sharer)
 [![Travis](https://img.shields.io/travis/emoji-gen/vue-sharer/master.svg?maxAge=2592000&style=flat-square&x)](https://travis-ci.org/emoji-gen/vue-sharer)
 [![Dependency Status](https://img.shields.io/david/emoji-gen/vue-sharer.svg?maxAge=2592000&style=flat-square)](https://david-dm.org/emoji-gen/vue-sharer)
 [![devDependency Status](https://img.shields.io/david/dev/emoji-gen/vue-sharer.svg?maxAge=2592000&style=flat-square)](https://david-dm.org/emoji-gen/vue-sharer?type=dev)
+
+#### [emoji-gen](https://github.com/emoji-gen) / [vue-ptero](https://github.com/emoji-gen/vue-ptero)
+
+[![npm](https://img.shields.io/npm/v/vue-ptero.svg?maxAge=2592000&style=flat-square)](https://www.npmjs.org/package/vue-ptero)
+[![Travis](https://img.shields.io/travis/emoji-gen/vue-ptero/master.svg?maxAge=2592000&style=flat-square&x)](https://travis-ci.org/emoji-gen/vue-ptero)
+[![Dependency Status](https://img.shields.io/david/emoji-gen/vue-ptero.svg?maxAge=2592000&style=flat-square)](https://david-dm.org/emoji-gen/vue-ptero)
+[![devDependency Status](https://img.shields.io/david/dev/emoji-gen/vue-ptero.svg?maxAge=2592000&style=flat-square)](https://david-dm.org/emoji-gen/vue-ptero?type=dev)
 
 #### [flyjs](https://github.com/flyjs) / [fly-mocha](https://github.com/flyjs/fly-mocha)
 

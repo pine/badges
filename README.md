@@ -326,4 +326,9 @@
 [![Build Status](https://img.shields.io/appveyor/ci/pine/p5-Scope-UndefSafe/master.svg)](https://ci.appveyor.com/project/pine/p5-Scope-UndefSafe/branch/master)
 [![Coverage Status](http://codecov.io/github/pine/p5-Scope-UndefSafe/coverage.svg?branch=master)](https://codecov.io/github/pine/p5-Scope-UndefSafe?branch=master)
 
+#### [p5-Text-Diff-Unified-XS](https://github.com/pine/p5-Text-Diff-Unified-XS)
+
+[![Build Status](https://travis-ci.org/pine/p5-Text-Diff-Unified-XS.svg?branch=master)](https://travis-ci.org/pine/p5-Text-Diff-Unified-XS)
+
+
 

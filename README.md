@@ -104,6 +104,11 @@
 
 ### Java
 
+#### [PercentClipView](https://github.com/pine/PercentClipView)
+
+[![Build Status](https://travis-ci.org/pine/PercentClipView.svg?branch=master)](https://travis-ci.org/pine/PercentClipView)
+[![codebeat badge](https://codebeat.co/badges/5d2dc83f-4a06-49c6-ab80-db195bc3b00f)](https://codebeat.co/projects/github-com-pine-percentclipview-master)
+
 #### [RxBindroid](https://github.com/pine/RxBindroid)
 
 [![Bintray](https://img.shields.io/bintray/v/pinemz/maven/rxbindroid.svg?style=flat-square)](https://bintray.com/pinemz/maven/rxbindroid/view)

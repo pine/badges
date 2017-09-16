@@ -133,6 +133,14 @@
 [![Dependency Status](https://img.shields.io/david/pine/arraybuffer-loader.svg?maxAge=2592000&style=flat-square)](https://david-dm.org/pine/is-lo)
 [![devDependency Status](https://img.shields.io/david/dev/pine/arraybuffer-loader.svg?maxAge=2592000&style=flat-square)](https://david-dm.org/pine/is-lo#info=devDependencies)
 
+#### [chatwork-messages](https://github.com/pine/chatwork-messages)
+
+[![npm](https://img.shields.io/npm/v/chatwork-messages.svg?style=flat-square)](https://www.npmjs.org/package/chatwork-messages)
+[![Build Status](https://img.shields.io/travis/pine/chatwork-messages/master.svg?style=flat-square)](https://travis-ci.org/pine/chatwork-messages)
+[![Build Status](https://img.shields.io/appveyor/ci/pine/chatwork-messages/master.svg?style=flat-square&maxAge=2592000)](https://ci.appveyor.com/project/pine/chatwork-messages/branch/master)
+[![Dependency Status](https://img.shields.io/david/pine/chatwork-messages.svg?style=flat-square)](https://david-dm.org/pine/chatwork-messages)
+[![devDependency Status](https://img.shields.io/david/dev/pine/chatwork-messages.svg?style=flat-square)](https://david-dm.org/pine/chatwork-messages#info=devDependencies)
+
 #### [dotfiles](https://github.com/pine613/dotfiles)
 
 [![wercker status](https://img.shields.io/wercker/ci/54f5f52d1afdc9f97c000564.svg?style=flat-square)](https://app.wercker.com/project/bykey/0f3a3fac65929edc8fd6e53818d5aba6)

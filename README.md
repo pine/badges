@@ -4,7 +4,7 @@
 
 ## Services
 
-## Emoji-Android
+### [Emoji-Android](https://github.com/emoji-gen/Emoji-Android)
 
 [![CircleCI](https://circleci.com/gh/emoji-gen/Emoji-Android/tree/master.svg?style=shield)](https://circleci.com/gh/emoji-gen/Emoji-Android/tree/master) [![codebeat badge](https://codebeat.co/badges/6fcc29b1-5059-4754-9422-2aaa0933813c)](https://codebeat.co/projects/github-com-emoji-gen-emoji-android-master)
 ### [Emilia](https://github.com/pine/Emilia)
